@@ -7,9 +7,9 @@ Trabajo realizado:
   - candy2_graf > 2Aa 2Ab
 
 Tambien se incluye un main de testing realizado, para probar todas las tareas que he realizado y su funcionamiento correspondiente, permitiendo observar: 
-> Generacion de la tabla numerica (superior) y tabla con sprites (inferior).
+> Generacion de la tabla numerica (superior) y tabla con sprites (inferior) \
 > Movimiento de los sprites al recombinar los elementos.
 
 Ademas, se requieren los siguientes programas para compilar, y visualizar todo el codigo:
-https://www.pnotepad.org/
+https://www.pnotepad.org/ \
 https://desmume.org/
