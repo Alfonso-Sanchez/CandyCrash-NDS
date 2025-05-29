@@ -1,15 +1,27 @@
-Este repositorio contiene la parte correspondiente a realizar del proyecto CandyCrash-NDS. Con los archivos de dependencias realizados por otros integrantes del grupo. 
+# CandyCrash-NDS Project - My Contribution
 
-Trabajo realizado:
-/source/
-  - candy1_init > Todo el archivo y sus rutinas correspondientes.
-  - RSI_Timer0 > 2Ea 2Eb 2Ec 2Ed
-  - candy2_graf > 2Aa 2Ab
+## Overview
 
-Tambien se incluye un main de testing realizado, para probar todas las tareas que he realizado y su funcionamiento correspondiente, permitiendo observar: 
-> Generacion de la tabla numerica (superior) y tabla con sprites (inferior) \
-> Movimiento de los sprites al recombinar los elementos.
+This repository contains my contributions to the CandyCrash-NDS project. It includes the code I developed, along with dependency files provided by other team members.
 
-Ademas, se requieren los siguientes programas para compilar, y visualizar todo el codigo:\
-https://www.pnotepad.org/ \
-https://desmume.org/
+## My Work
+
+### `/source/` Directory
+
+*   **`candy1_init`**: Complete file with all corresponding routines.
+*   **`RSI_Timer0`**: Modifications to sections 2Ea, 2Eb, 2Ec, and 2Ed.
+*   **`candy2_graf`**: Modifications to sections 2Aa and 2Ab.
+
+## Testing
+
+A testing `main` file is included to demonstrate the functionality of my contributions. This allows you to observe:
+
+*   Generation of the numerical table (top) and sprite table (bottom).
+*   Movement of sprites when recombining elements.
+
+## Required Software
+
+The following software is required to compile and view the code:
+
+*   [Pnotepad](https://www.pnotepad.org/)
+*   [DeSmuME](https://desmume.org/)
